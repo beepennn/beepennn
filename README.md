@@ -122,6 +122,10 @@
   <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
+<a href="https://portfolio.bipinlamsal11.com.np/">
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 <a href="https://api.whatsapp.com/send/?phone=9845405099">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
