@@ -59,26 +59,13 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=beepennn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=beepennn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=beepennn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bipinlamsal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinlamsal&layout=compact&theme=radical&hide_border=true&border_radius=10" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bipinlamsal&theme=github-dark-blue&hide_border=true&border_radius=10" />
-
-</div>
-
+---
+[![](https://komarev.com/ghpvc/?username=beepennn&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 <div align="center">
