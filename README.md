@@ -60,9 +60,9 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=beepennn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=beepennn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=beepennn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=beepennn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=beepennn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -103,7 +103,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://bipinlamsal11.com.np">
+<a href="https://www.engineeringbctnotes.com/">
   <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
